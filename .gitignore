@@ -1,0 +1,9 @@
+/*
+!/.bashrc
+!/.tmux.conf
+!/.vim
+!/.tmux
+!/.gitignore
+
+/.vim/plugged/
+/.tmux/plugins/

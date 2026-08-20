@@ -1,0 +1,14 @@
+source ~/.vim/my_settings.vim
+source ~/.vim/my_keymap.vim
+source ~/.vim/my_netrw.vim
+
+call plug#begin()
+Plug 'christoomey/vim-tmux-navigator'
+Plug 'tpope/vim-commentary'
+Plug 'ap/vim-buftabline'
+Plug 'kshenoy/vim-signature'
+Plug 'iamcco/mathjax-support-for-mkdp'
+Plug 'iamcco/markdown-preview.vim'
+call plug#end()
+
+packadd! termdebug
