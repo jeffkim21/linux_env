@@ -9,6 +9,8 @@ Plug 'ap/vim-buftabline'
 Plug 'kshenoy/vim-signature'
 Plug 'iamcco/mathjax-support-for-mkdp'
 Plug 'iamcco/markdown-preview.vim'
+Plug 'prabirshrestha/vim-lsp'
+Plug 'mattn/vim-lsp-settings'
 call plug#end()
 
 packadd! termdebug
