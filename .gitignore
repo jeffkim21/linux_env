@@ -2,6 +2,7 @@
 !/.bashrc
 !/.tmux.conf
 !/.vim
+!/.tmux/plugins
 !/.tmux/plugins/tpm
 !/.tmux/plugins/tpm/*
 !/.gitignore
