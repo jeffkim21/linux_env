@@ -2,8 +2,8 @@
 !/.bashrc
 !/.tmux.conf
 !/.vim
-!/.tmux
+!/.tmux/plugins/tpm
+!/.tmux/plugins/tpm/*
 !/.gitignore
 
 /.vim/plugged/
-/.tmux/plugins/
