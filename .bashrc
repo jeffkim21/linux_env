@@ -110,3 +110,8 @@ alias gg='/mnt/c/Program\ Files\ \(x86\)/Microsoft/Edge/Application/msedge.exe h
 # Claud
 export PATH=$HOME/.local/bin:$PATH
 
+# zoxide
+eval "$(zoxide init bash)"
+
+# fzf
+export FZF_DEFAULT_OPTS='-e'

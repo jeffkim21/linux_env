@@ -10,7 +10,12 @@ Plug 'kshenoy/vim-signature'
 Plug 'iamcco/mathjax-support-for-mkdp'
 Plug 'iamcco/markdown-preview.vim'
 Plug 'prabirshrestha/vim-lsp'
+Plug 'prabirshrestha/asyncomplete.vim'
+Plug 'prabirshrestha/asyncomplete-lsp.vim'
 Plug 'mattn/vim-lsp-settings'
+Plug 'easymotion/vim-easymotion'
 call plug#end()
 
 packadd! termdebug
+
+source ~/.vim/my_vimlsp.vim
